@@ -12,7 +12,7 @@ Siga os passos:
 
 ```sh
 # Passo 1: Clone o repositório
-git clone https://mhbapp.netlify.app
+git clone https://github.com/MHbarbos4/Portfolio.git
 
 # Passo 2: Entre na pasta do projeto
 cd Portifolio
