@@ -29,7 +29,7 @@ export const projects: Project[] = [
     badges: ["Dashboard operacional", "Autenticação JWT"],
     results:
       "Centralização do controle de produtos, redução de erros manuais em lançamentos de estoque e visão rápida de itens críticos.",
-    image: "/src/assets/GerEstoque.png",
+    image: "/GerEstoque.png",
     imageAlt: "Dashboard de estoque com gráficos e cards de métricas",
     githubUrl: "https://github.com/MHbarbos4/EstoqueManager",
     demoUrl: "https://estoquemanager.netlify.app",
@@ -47,7 +47,7 @@ export const projects: Project[] = [
     badges: ["CRUD completo", "Documentação automática"],
     results:
       "Base sólida para estudos de boas práticas em APIs REST, versionamento e documentação voltada para consumo por outros serviços.",
-    image: "/src/assets/APIgo.png",
+    image: "/APIgo.png",
     imageAlt: "Documentação Swagger aberta em navegador com rotas de API",
     githubUrl: "https://github.com/MHbarbos4/API-Go",
   },
@@ -64,7 +64,7 @@ export const projects: Project[] = [
     badges: ["CRUD completo", "Validação de dados"],
     results:
       "Projeto utilizado para consolidar fundamentos de MVC, Entity Framework, migrations e boas práticas de organização em .NET.",
-    image: "/src/assets/MVC_Cafeteria.png",
+    image: "/MVC_Cafeteria.png",
     imageAlt: "Tela de sistema web de cafeteria com listagem de produtos",
     githubUrl: "https://github.com/MHbarbos4/ProjetoCafeteriaMVC",
   },
@@ -81,7 +81,7 @@ export const projects: Project[] = [
     badges: ["Projeto integrador", "Automação"],
     results:
       "Demonstração prática de integração entre hardware, backend .NET e frontend React em um cenário próximo ao real.",
-    image: "/src/assets/Estufa.png",
+    image: "/Estufa.png",
     imageAlt: "Dashboard de monitoramento de estufa com gráficos de temperatura e umidade",
     githubUrl: "https://github.com/MHbarbos4/ProjetoIntegrador",
   },
@@ -98,7 +98,7 @@ export const projects: Project[] = [
     badges: ["Produtividade", "Boas práticas"],
     results:
       "Apoio no ganho de velocidade em operações de versionamento, criação de repositórios e manutenção de um fluxo Git consistente.",
-    image: "/src/assets/FluxoGit.png",
+    image: "/FluxoGit.png",
     imageAlt: "Terminal exibindo comandos Git automatizados",
     githubUrl: "https://github.com/MHbarbos4/ProjetosComandoGitHub",
   },
