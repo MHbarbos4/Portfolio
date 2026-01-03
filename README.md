@@ -12,10 +12,10 @@ Siga os passos:
 
 ```sh
 # Passo 1: Clone o repositório
-git clone <URL_DO_REPOSITORIO>
+git clone https://mhbapp.netlify.app
 
 # Passo 2: Entre na pasta do projeto
-cd crimson-code-portfolio
+cd Portifolio
 
 # Passo 3: Instale as dependências
 npm i
